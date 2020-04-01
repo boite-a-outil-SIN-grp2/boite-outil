@@ -1,0 +1,10 @@
+D:\visual\boiteàoutil2\bin\Debug\boiteàoutil2.exe.config
+D:\visual\boiteàoutil2\bin\Debug\boiteàoutil2.exe
+D:\visual\boiteàoutil2\bin\Debug\boiteàoutil2.pdb
+D:\visual\boiteàoutil2\obj\Debug\boiteàoutil2.csprojAssemblyReference.cache
+D:\visual\boiteàoutil2\obj\Debug\boiteàoutil2.Form1.resources
+D:\visual\boiteàoutil2\obj\Debug\boiteàoutil2.Properties.Resources.resources
+D:\visual\boiteàoutil2\obj\Debug\boiteàoutil2.csproj.GenerateResource.cache
+D:\visual\boiteàoutil2\obj\Debug\boiteàoutil2.csproj.CoreCompileInputs.cache
+D:\visual\boiteàoutil2\obj\Debug\boiteàoutil2.exe
+D:\visual\boiteàoutil2\obj\Debug\boiteàoutil2.pdb
